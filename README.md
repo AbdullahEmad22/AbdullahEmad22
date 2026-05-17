@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone!+%F0%9F%91%8B+;+I'm+Abdullah+Emad" alt="Abdullah Emad" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone!+%F0%9F%91%8B+;+I'm+Abdullah+Emad" alt="Abdullah Emad" />
 </h1>
 
 ---
